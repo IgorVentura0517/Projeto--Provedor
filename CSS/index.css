@@ -296,3 +296,67 @@
 .propaganda_2{
     background-color: var(--sexta-cor);
 }
+
+.div_ultimainfo{
+    width: 1024px;
+    margin: 20px auto;
+    position: relative;
+    padding: 50px 0;
+    text-align: center;
+}
+
+
+
+.logo_rodape img{
+    width: 90px;
+}
+
+.logo_rodape div{
+    position: absolute;
+    bottom: 73%;
+    right: 24%;
+    text-align: left ;
+}
+
+.logo_rodape h1{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.logo_rodape p {
+    font-family: sans-serif;
+    color: var(--sexta-cor);
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.div_ultimainfo_textos{
+    line-height: 40px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 50px;
+}
+
+
+.footer {
+    background-color: var(--sexta-cor);
+}
+
+.footer div{
+    width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer div h2{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: var(--primeira-cor);
+    padding: 20px;
+
+}
+
+
