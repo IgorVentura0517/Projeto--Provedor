@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root{
+    --primeira-cor: #fff;
+    --segunda-cor: #f1f3f7;
+    --terceira-cor: #f6f6f6;
+    --quarta-cor: #a89f9f;
+    --quinta-cor: #233032;
+    --sexta-cor: #2f86d6;
+    --setima-cor: rgba(47, 134, 214, 1);
+}
